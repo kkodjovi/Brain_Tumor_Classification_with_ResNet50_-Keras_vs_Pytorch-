@@ -35,10 +35,12 @@ This project was run on **Google Colab** using a **T4 GPU**.
 
 | Metric         | PyTorch | Keras  |
 |----------------|---------|--------|
-| Train Loss     | 0.0871  | 0.2343 |
-| Train Accuracy | 97.02%  | 91.31% |
-| Test Loss      | 0.0259  | 0.2721 |
-| Test Accuracy  | 99.24%  | 89.09% |
+| Train Loss     | 0.0922  | 0.2343 |
+| Train Accuracy | 96.76%  | 91.31% |
+| Test Loss      | 0.0389  | 0.2721 |
+| Test Accuracy  | 98.86%  | 89.09% |
+
+---------------------------------------
 
 ------------------------------------------------------------------------
 
